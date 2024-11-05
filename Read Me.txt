@@ -1,0 +1,3 @@
+For Compiling Computer Graphics Programs Use The Following Coomands -
+
+g++ filename.cpp -o filename -lgraph
